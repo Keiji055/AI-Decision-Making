@@ -1,0 +1,27 @@
+{
+  "enable_vsync": true,
+  "engine_assets_path": "../EngineAssets/",
+  "use_letterbox_and_pillarbox": true,
+  "window_settings": {
+    "clear_color": {
+      "a": 1.0,
+      "b": 0.25,
+      "g": 0.2,
+      "r": 0.0
+    },
+    "render_rect": {
+      "h": 900,
+      "w": 1600,
+      "x": 0,
+      "y": 0
+    },
+    "start_in_fullscreen": false,
+    "title": "TGE - Never give up on your dreams!",
+    "window_rect": {
+      "h": 900,
+      "w": 1600,
+      "x": 0,
+      "y": 0
+    }
+  }
+}
